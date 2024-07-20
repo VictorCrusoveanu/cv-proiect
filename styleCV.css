@@ -1,0 +1,27 @@
+body {
+  background-color: rgba(83, 206, 145, 0.555);
+}
+
+h1 {
+  color: rgb(32, 32, 161);
+  font-size: 50px;
+  margin-left: 10%;
+}
+
+.Localitate {
+  color: rgb(150, 91, 25);
+  margin-left: 12%;
+}
+.textObiective {
+  font-size: 120%;
+}
+
+h2 {
+  color: rgb(223, 230, 226);
+  font-size: 30px;
+  background-color: rgb(41, 110, 110);
+}
+
+a:link {
+  color: rgb(0, 122, 41);
+}
